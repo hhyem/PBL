@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-//        Log.i("start", "시작")
+        Log.i("start", "시작")
 //
 //        // 권한 요청
 //        if (Build.VERSION.SDK_INT >= 23) {
